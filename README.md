@@ -1,4 +1,4 @@
-# Personal-Finance-Dashboard
+# Personal Finance Dashboard
 
 ![image](Finance-Dashboard.png)
 
