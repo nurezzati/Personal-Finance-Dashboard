@@ -23,7 +23,7 @@ Key Questions
 🔄 Workflow
 
 1. Data Import & Preparation
-   1. Consolidated financial data. In this project, I used dataset that are readily available but will working on my real financial dataset in future. Stay tuned!
+   1. In this project, I used financial dataset that are readily consolidated but tweaked it by changing the currency to MYR for my learning purpose. To optimize my learning, I will be working on my real     financial dataset in future. Stay tuned!       
    2. Used Power Query to remove inconsistencies, standardize formats, and structure the dataset.
 2. Data Modeling & KPI Creation
    1. Designed measures in DAX for essential performance indicators.
