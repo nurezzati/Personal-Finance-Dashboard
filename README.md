@@ -1,12 +1,10 @@
 # Personal-Finance-Dashboard
 
-💰 Personal Finance Dashboard using Power BI
+![image](Finance-Dashboard.png)
 
 This project showcases an interactive Power BI dashboard designed to help users track and manage their income, expenses, and savings more effectively. The goal was to consolidate financial data into a single, user-friendly platform that supports better budgeting and spending decisions.
 
-📌 Project Overview
-
-I developed this dashboard to provide a clear visual overview of personal financial health. The dataset was taken from Youtube Channel Codebasics - https://www.youtube.com/watch?v=pqSoCa2NGj4&t=4587s. This dashboard is aimed to capture a complete picture of income streams, expense categories, and savings trends.
+📌 Project Overview --> I developed this dashboard to provide a clear visual overview of personal financial health. The dataset was taken from Youtube Channel Codebasics - https://www.youtube.com/watch?v=pqSoCa2NGj4&t=4587s. This dashboard is aimed to capture a complete picture of income streams, expense categories, and savings trends.
 
 Key Questions
 1. What is my spending and saving behaviour?
