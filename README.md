@@ -39,12 +39,11 @@ Key Questions
 1. Provides a visual breakdown of spending habits.
 2. Tracks monthly trends for income, expenses, and savings.
 3. Supports informed budgeting decisions through data-driven insights.
+4. Creates financial awareness and encourage user to save more
 
 Learning Takeaways
 1. Learnt how track expenses to analyze my spending behaviour
 2. Learnt how to match spending and saving behaviour
 3. Learnt the correlation between spending, saving and expenses pattern
+4. Learnt how to leverage data analytics and apply it to personal financial management
 
-Enhances financial awareness and helps identify opportunities to save more.
-
-This project highlights my skills in data transformation, KPI creation, and interactive dashboard design using Power BI, and demonstrates how data analytics can be applied to everyday financial management.
